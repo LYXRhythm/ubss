@@ -1,6 +1,6 @@
 # Underdetermined Blind Signal Separation with Maximum Entropy Function
 
-This is the demo for the paper "Underdetermined Blind Signal Separation with Maximum Entropy Function". This code validates the most basic idea of proposed method and achieves the estimation of the transmission channel matrix. The complete code will be published after the paper is received.
+This is the demo for the paper "Underdetermined Blind Signal Separation with Smooth Approximation Function". This code validates the most basic idea of proposed method and achieves the estimation of the transmission channel matrix. The complete code will be published after the paper is received.
  
 ## Catalog
 
