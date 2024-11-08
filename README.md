@@ -1,4 +1,4 @@
-# Underdetermined Blind Signal Separation with Maximum Entropy Function
+# Underdetermined Blind Signal Separation with Smooth Approximation Function for Insufficiently Sparse Sources
 
 This is the demo for the paper "Underdetermined Blind Signal Separation with Smooth Approximation Function for Insufficiently Sparse Sources". This code validates the most basic idea of proposed method and achieves the estimation of the transmission channel matrix.  (Circuits, Systems, and Signal Processing, Python Code)
  
