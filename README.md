@@ -1,6 +1,6 @@
 # Underdetermined Blind Signal Separation with Maximum Entropy Function
 
-This is the demo for the paper "Underdetermined Blind Signal Separation with Smooth Approximation Function". This code validates the most basic idea of proposed method and achieves the estimation of the transmission channel matrix. The complete code will be published after the paper is received.
+This is the demo for the paper "Underdetermined Blind Signal Separation with Smooth Approximation Function for Insufficiently Sparse Sources". This code validates the most basic idea of proposed method and achieves the estimation of the transmission channel matrix.  (Circuits, Systems, and Signal Processing, Python Code)
  
 ## Catalog
 
@@ -31,8 +31,3 @@ filetree
 │   ├── A_UBSS.npy
 │   ├── X_UBSS.npy
 ```
-
-
-### Copyright
-
-For details, please refer to [LICENSE.txt](https://github.com/LYXRhythm/BSS_SC/blob/main/LICENSE.txt)
